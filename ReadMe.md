@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on my portfolio website and thinking of using MERN stack for this purpose<br>👯 I’m looking to collaborate with anyone working on a Machine Learning project as I'm keen on learning new concepts.<br>🌱Working on NextJs and React along with Angular has been refreshing and thrilling I would say<br>⚡ Despite the popular belief that programming requires complex mathematics, many coding tasks can be performed with basic arithmetic and logical thinking. This makes coding accessible to a wide range of people, including those who might shy away from math-heavy disciplines!<br>
+🔭 Currently working on Trading Application and research on LLMaaS <br>👯 I’m looking to collaborate with anyone working on a Machine Learning project as I'm keen on learning new concepts.<br>🌱Working on NextJs and React along with Angular has been refreshing and thrilling I would say<br>⚡ Despite the popular belief that programming requires complex mathematics, many coding tasks can be performed with basic arithmetic and logical thinking. This makes coding accessible to a wide range of people, including those who might shy away from math-heavy disciplines!<br>
 
 
 ## 🌐 Socials:
